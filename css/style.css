@@ -299,14 +299,14 @@ i {
 
 #video {
   width: 100px;
-  height: 655px;
+  height: 500px;
   background: black;
-  flex-grow: 3;
+  flex-grow: 2;
 }
 
 #console {
-  width: 100px;
-  height: 655px;
+  width: auto;
+  height: auto;
   background:#3498db;
   flex-grow:1;
 
@@ -317,14 +317,14 @@ i {
 
 #chat {
   width: auto;
-  height: 655px;
+  height: auto;
   background:#24ce24;
-  flex-grow: 1;
+  flex-grow: 3;
 }
 
 #robot_controller {
   width: auto;
-  height: 655px;
+  height: auto;
   background:#be5a20;
   flex-grow: 1;
 }
