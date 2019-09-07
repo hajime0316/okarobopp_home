@@ -317,6 +317,10 @@ i {
   background-color: pink;
 }
 
+.margin_20px {
+  margin-top: 20px;
+}
+
 .chat {
   background-color: skyblue;
   flex: 1;
