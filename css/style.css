@@ -320,8 +320,8 @@ i {
 }
 
 #robot_controller {
-  width: 125;
-  height: 125;
+  width: 250px;
+  height: 150px;
   background:#be5a20;
 }
 
@@ -334,6 +334,6 @@ i {
 .controls button {
   display: block;
   width: 100%;
-  height: 100%;
+  height: 50px;
   font-size: 44px;
 }
