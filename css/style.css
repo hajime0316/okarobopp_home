@@ -323,8 +323,8 @@ i {
 }
 
 #robot_controller {
-  width: auto;
-  height: auto;
+  width: 125;
+  height: 125;
   background:#be5a20;
   flex-grow: 1;
 }
