@@ -296,11 +296,21 @@ i {
   display: flex;
   flex-direction: row;
 }
+header{
+  width: 100%;
+  margin: 0;
+  height: 80px;
+  background: skyblue;
+}
 
+h1{
+  margin: 0;
+  color: white;
+}
 
 #robot_controller {
  position: absolute;
- top: 480px;
+ top: 525px;
  left: 310px;
  width: 250px;
  height: 200px;
@@ -325,7 +335,7 @@ i {
 }
 
 .chat {
-  background-color: skyblue;
+  background-color: powderblue;
   flex: 1;
   width: 200px;
 }
@@ -368,7 +378,7 @@ i {
 .flat.border {
   position: relative;
   text-align: center;
-  height: 60px;
+  height: 55px;
   margin: 10px;
   /* 中央揃え */
   display: block;
